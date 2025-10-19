@@ -1,6 +1,6 @@
 name: Feature request
 description: Suggest an idea for Ballsdex
-labels:
+labels:e
   - feature request
 body:
   - type: markdown
